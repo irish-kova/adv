@@ -1,0 +1,25 @@
+body{
+    font-family: Verdana, Arial, sans-serif;
+    background-color: antiquewhite;
+    background-image:url(images/cafe%20good%20things.jpg);
+
+    background-position: center;
+   background-size: cover;
+    background-repeat: no-repeat;
+}
+p{
+	margin-bottom:1.3em;
+	font-size:1.2em;	
+	padding:10px;
+    font-style:italic;
+} 
+h1{
+	font-size:4em;
+	padding-top:40px;
+	text-align:left;
+     font-style:italic;
+
+   
+}
+
+   
